@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="health_permissions">
+        <item>android.permission.health.READ_STEPS</item>
+        <item>android.permission.health.WRITE_STEPS</item>
+        <item>android.permission.health.READ_SLEEP</item>
+        <item>android.permission.health.WRITE_SLEEP</item>
+    </string-array>
+    <string name="add_workout">새 운동 추가</string>
+    <string name="app_name">피트니스 기록앱</string>
+    <string name="cancel">취소</string>
+    <string name="delete">삭제</string>
+    <string name="duration">총 시간 (분)</string>
+    <string name="edit_workout">운동 편집</string>
+    <string name="error_message">오류가 발생했습니다. 다시 시도해주세요.</string>
+    <string name="exercise_name">운동명</string>
+    <string name="history_title">기록 보기</string>
+    <string name="home_title">운동 기록</string>
+    <string name="loading">로딩 중...</string>
+    <string name="monthly_volume">월간 총 운동량</string>
+    <string name="no_workouts">기록된 운동이 없습니다. 새로운 운동을 추가해보세요!</string>
+    <string name="notes">메모</string>
+    <string name="reps">회 수 (반복)</string>
+    <string name="save">저장</string>
+    <string name="sets">세트 수</string>
+    <string name="settings_title">설정</string>
+    <string name="stats_title">통계</string>
+    <string name="take_photo">사진 찍기</string>
+    <string name="weekly_volume">주간 총 운동량</string>
+    <string name="weight">무게 (kg)</string>
+    <style name="Theme.FitnessApp" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>

@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+array health_permissions
+string add_workout
+string app_name
+string cancel
+string delete
+string duration
+string edit_workout
+string error_message
+string exercise_name
+string history_title
+string home_title
+string loading
+string monthly_volume
+string no_workouts
+string notes
+string reps
+string save
+string sets
+string settings_title
+string stats_title
+string take_photo
+string weekly_volume
+string weight
+style Theme.FitnessApp
+xml backup_rules
+xml data_extraction_rules
+xml file_paths
